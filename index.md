@@ -1,4 +1,2 @@
 こんにちは
-
-
-このホームページのソースコードは[こちら](https://github.com//yyyyuzuru/SamplePages/)
+このホームページのソースコードは[こちら](https://github.com//yyyyuzuru/SamplePages)
